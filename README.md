@@ -1,5 +1,6 @@
 
-Google Maps Clone App 🌍
+### Google Maps Clone App 🌍
+
 Mapbox is a powerful tool for building map-based applications, and this project uses it to create a Google Maps-like experience. The app fetches data from Mapbox to display a real-time world map and integrates the browser's geolocation API along with Mapbox plugins for enhanced functionality.
 
 Features:
